@@ -1,0 +1,6 @@
+username = 'FA61672'
+pwd = 'Khukhi@12345'
+factor2 = 'AQVPT5661R'
+vc = 'FA61672_U'
+app_key = '94b4d52856aca3690f244fda67f8eea0'
+imei = 'abc1234'
